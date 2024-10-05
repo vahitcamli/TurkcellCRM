@@ -1,0 +1,11 @@
+com\turkcell\TurkcellCRM\commonPackage\OrderCreatedEvent.class
+com\turkcell\TurkcellCRM\commonPackage\OrderCreatedForAccountEvent.class
+com\turkcell\TurkcellCRM\commonPackage\Gender.class
+com\turkcell\TurkcellCRM\commonPackage\GetProductResponse.class
+com\turkcell\TurkcellCRM\commonPackage\enums\Roles.class
+com\turkcell\TurkcellCRM\commonPackage\BaseEntity.class
+com\turkcell\TurkcellCRM\commonPackage\Product.class
+com\turkcell\TurkcellCRM\commonPackage\Main.class
+com\turkcell\TurkcellCRM\commonPackage\ProductCreatedEvent.class
+com\turkcell\TurkcellCRM\commonPackage\CommonPackageApplication.class
+com\turkcell\TurkcellCRM\commonPackage\IndividualCustomerCreatedEvent.class
